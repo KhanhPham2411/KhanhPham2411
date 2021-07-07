@@ -61,9 +61,6 @@ I have been working with .NET since its first introduction. I publish a lot of o
 <details>
   <summary>:zap: Recent GitHub Activities</summary>
   
-<!--START_SECTION:activity-->
-1. 🎉 Merged PR [#10](https://github.com/n3wt0n/SmartHotel360-Website/pull/10) in [n3wt0n/SmartHotel360-Website](https://github.com/n3wt0n/SmartHotel360-Website)
-<!--END_SECTION:activity-->
 
 </details>
 
