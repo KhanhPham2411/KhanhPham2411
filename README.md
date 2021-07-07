@@ -1,8 +1,6 @@
 ### Hi there, I'm [Khanh Pham][website] 👋 💻
 
 
-[![Sponsor](https://img.shields.io/badge/Sponsor%20n3wt0n-%F0%9F%92%96-pink?style=for-the-badge)][githubsponsor]
-
 ## I'm a Software Engineer!
 
 I have been working with .NET since its first introduction. I publish a lot of open source project on GitHub
