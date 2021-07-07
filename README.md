@@ -1,16 +1,12 @@
-### Hi there, I'm [Davide '_n3wt0n_' Benvegnu][website] 👋 💻
+### Hi there, I'm [Khanh Pham][website] 👋 💻
 
-[![YouTube Subscribe](https://img.shields.io/badge/YouTube_@CoderDave-SUBSCRIBE-red?logo=youtube&style=for-the-badge&logoColor=red)](https://www.youtube.com/CoderDave?sub_confirmation=1) 
-[![Twitter Follow](https://img.shields.io/twitter/follow/davidebenvegnu?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fdavidebenvegnu&screen_name=n3wt0n)
+
 [![Sponsor](https://img.shields.io/badge/Sponsor%20n3wt0n-%F0%9F%92%96-pink?style=for-the-badge)][githubsponsor]
 
-## I'm a DevOps Architect, a Software Engineer, a Speaker, and a YouTuber!
+## I'm a Software Engineer!
 
-I have been working with .NET since its first introduction. Currently I work as __DevOps Architect at Microsoft + Github__, I'm the founder and Community Leader of [Hong Kong Microsoft Community](http://www.hkmsc.org) and member of [DotNetToscana](https://dotnettoscana.org). I'm speaker at technical events and I write articles for magazines. I used to be a Microsoft MVP in 2015, 2016 and 2017.
+I have been working with .NET since its first introduction. I publish a lot of open source project on GitHub
 
-I publish a lot of __technical videos about DevOps, GitHub and Azure DevOps__ on my [YouTube Channel: CoderDave](https://youtube.com/CoderDave)
-
-I also like to make non-technical cinematic-looking videos, take a look at my [personal YouTube Channel](https://youtube.com/DavideBenvegnu)
 
 ### Connect with me:
 
