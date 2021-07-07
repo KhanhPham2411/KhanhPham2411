@@ -58,11 +58,6 @@ I have been working with .NET since its first introduction. I publish a lot of o
 
 <img align="left" alt="n3wt0n's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=KhanhPham2411&show_icons=true&hide_border=true&count_private=true" />
 
-<details>
-  <summary>:zap: Recent GitHub Activities</summary>
-  
-
-</details>
 
 [website]: https://khanhpham2411.blogspot.com/
 [blog]: https://khanhpham2411.blogspot.com/
