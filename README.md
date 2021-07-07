@@ -49,19 +49,6 @@ I have been working with .NET since its first introduction. I publish a lot of o
 
 ---
 
-### 🎥 Latest YouTube Videos
-
-<!-- YOUTUBE:START -->
-- [What is a DevOps Architect? The DevOps Architect Role explained (ft Mickey Gousset)](https://www.youtube.com/watch?v=TF9EIS9vxnM)
-- [The NEW Manual Validation Task for Azure DevOps YAML Pipelines Demystified](https://www.youtube.com/watch?v=sfb3d100JPo)
-- [EVERYTHING About the Scale Set Agents for Azure Pipelines (VMSS)](https://www.youtube.com/watch?v=3oILIG4i71g)
-- [Introducing the NEW GitHub Issues: Table View, Issues Forms, Task Lists](https://www.youtube.com/watch?v=MvyGcLg6AvI)
-- [GitHub Actions Tutorial | From Zero to Hero in 90 minutes (Environments, Secrets, Runners, etc)](https://www.youtube.com/watch?v=TLB5MY9BBa4)
-<!-- YOUTUBE:END -->
-
-▶ [more videos...][youtube]
-
----
 
 ### 📑 Latest Blog Posts
 
@@ -90,21 +77,14 @@ I have been working with .NET since its first introduction. I publish a lot of o
 
 </details>
 
-[website]: https://www.davidebenvegnu.com
-[cdwebsite]: https://coderdave.io
-[blog]: https://dev.to/n3wt0n
-[twitter]: https://twitter.com/davidebenvegnu
-[youtube]: https://www.youtube.com/CoderDave
-[youtube-personal]: https://www.youtube.com/DavideBenvegnu
-[youtube-cameras]: https://www.youtube.com/channel/UC-D1BZtB-ifRhxLmRq1y-Ug
-[linkedin]: https://linkedin.com/in/davidebenvegnu
-[instagram]: https://www.instagram.com/davide.benvegnu
-[patreon]: https://patreon.com/CoderDave
-[paypal]: https://paypal.me/dabenveg
-[buymeacoffee]: https://buymeacoffee.com/CoderDave
-[githubsponsor]: https://github.com/sponsors/n3wt0n?o=esb
-[podcast]: https://geni.us/cdpodcast
-[discord]: https://discord.gg/sJFmYC9TXb
+[website]: https://khanhpham2411.blogspot.com/
+[blog]: https://khanhpham2411.blogspot.com/
+[linkedin]: https://www.linkedin.com/in/khanh-pham-38b114135/
+[patreon]: https://patreon.com/Kapa2411
+[paypal]: https://paypal.me/Kapa2411
+[buymeacoffee]: https://www.buymeacoffee.com/Kapa2411
+[githubsponsor]: https://github.com/sponsors/KhanhPham2411
+
 
 <!--
 **n3wt0n/n3wt0n** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
