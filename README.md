@@ -3,7 +3,7 @@
 
 ## I'm a Software Engineer!
 
-I have been working with .NET since its first introduction. I publish a lot of open source project on GitHub
+I have been working with .NET core since its first introduction. I publish a lot of open source project on GitHub
 
 
 ### Connect with me:
