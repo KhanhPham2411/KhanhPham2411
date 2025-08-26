@@ -6,12 +6,6 @@
 I have been working with ReactJs, .NET core since its first introduction. I publish a lot of open source project on GitHub
 
 
-### Connect with me:
-
-[<img align="left" alt="About Me" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website] 
-[<img align="left" alt="LinkedIn" width="22px" src="https://raw.githubusercontent.com/n3wt0n/n3wt0n/master/assets/linkedin.svg" />][linkedin]
-
-<br />
 
 ### Support me:
 [<img align="left" alt="Patreon" width="22px" src="https://raw.githubusercontent.com/n3wt0n/n3wt0n/master/assets/patreon.svg" />][patreon]
